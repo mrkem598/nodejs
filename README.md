@@ -2,7 +2,6 @@
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine
 
 ![node0](https://cloud.githubusercontent.com/assets/23619819/24941063/7ed985be-1f15-11e7-99c5-f5e4b2d0d444.PNG)
-![node1](https://cloud.githubusercontent.com/assets/23619819/24941064/81ec8896-1f15-11e7-9c3b-cefb92247c10.PNG)
 
 ## WHAT IS NODE?
 #### NODE IS JAVASCRIPT ON THE SERVER
@@ -106,6 +105,8 @@ many mature solutions that fit the IoT problem.
 • phant
 ### HOW CAN I MAKE NODE USEFUL?
 #### WHAT IS NPM?
+![node1](https://cloud.githubusercontent.com/assets/23619819/24941064/81ec8896-1f15-11e7-9c3b-cefb92247c10.PNG)
+
 Node Package Manager (“npm”) is the command-line package manager
 for Node that manages dependencies for your application. npmjs.com
 is the public repository where you can obtain and publish modules.
