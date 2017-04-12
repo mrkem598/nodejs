@@ -1,10 +1,8 @@
-# nodejs
-Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine
 
-![node0](https://cloud.githubusercontent.com/assets/23619819/24941063/7ed985be-1f15-11e7-99c5-f5e4b2d0d444.PNG)
+![node0](https://cloud.githubusercontent.com/assets/23619819/24941335/a4684f48-1f17-11e7-8813-52e7e5039eb1.PNG)
 
 ## WHAT IS NODE?
-#### NODE IS JAVASCRIPT ON THE SERVER
+#### NODE IS JAVASCRIPT ON THE SERVER runtime built on Chrome's V8 JavaScript engine
 First, a quick note: The terms “Node.js” and “Node” are used
 interchangeably. The official description according to the nodejs.
 org website is:
