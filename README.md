@@ -3,7 +3,7 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine
 
 ![node0](https://cloud.githubusercontent.com/assets/23619819/24941063/7ed985be-1f15-11e7-99c5-f5e4b2d0d444.PNG)
 ![node1](https://cloud.githubusercontent.com/assets/23619819/24941064/81ec8896-1f15-11e7-9c3b-cefb92247c10.PNG)
-![node2](https://cloud.githubusercontent.com/assets/23619819/24941065/81f0f0de-1f15-11e7-8065-f495c8571b0d.PNG)
+
 ## WHAT IS NODE?
 #### NODE IS JAVASCRIPT ON THE SERVER
 First, a quick note: The terms “Node.js” and “Node” are used
@@ -134,3 +134,4 @@ designed for use with Node, it can also be used directly in the
 browser. Async provides around 20 functions that include the usual
 'functional' suspects (map, reduce, filter, each…) in addition to your
 async function.
+![node2](https://cloud.githubusercontent.com/assets/23619819/24941065/81f0f0de-1f15-11e7-8065-f495c8571b0d.PNG)
